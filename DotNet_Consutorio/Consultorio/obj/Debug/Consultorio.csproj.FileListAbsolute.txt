@@ -1,0 +1,11 @@
+c:\users\washington\documents\visual studio 2015\Projects\Consultorio\Consultorio\bin\Debug\Consultorio.dll.config
+c:\users\washington\documents\visual studio 2015\Projects\Consultorio\Consultorio\bin\Debug\Consultorio.dll
+c:\users\washington\documents\visual studio 2015\Projects\Consultorio\Consultorio\bin\Debug\Consultorio.pdb
+c:\users\washington\documents\visual studio 2015\Projects\Consultorio\Consultorio\bin\Debug\EntityFramework.dll
+c:\users\washington\documents\visual studio 2015\Projects\Consultorio\Consultorio\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\washington\documents\visual studio 2015\Projects\Consultorio\Consultorio\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\washington\documents\visual studio 2015\Projects\Consultorio\Consultorio\bin\Debug\EntityFramework.xml
+c:\users\washington\documents\visual studio 2015\Projects\Consultorio\Consultorio\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\washington\documents\visual studio 2015\Projects\Consultorio\Consultorio\obj\Debug\Consultorio.csprojResolveAssemblyReference.cache
+c:\users\washington\documents\visual studio 2015\Projects\Consultorio\Consultorio\obj\Debug\Consultorio.dll
+c:\users\washington\documents\visual studio 2015\Projects\Consultorio\Consultorio\obj\Debug\Consultorio.pdb

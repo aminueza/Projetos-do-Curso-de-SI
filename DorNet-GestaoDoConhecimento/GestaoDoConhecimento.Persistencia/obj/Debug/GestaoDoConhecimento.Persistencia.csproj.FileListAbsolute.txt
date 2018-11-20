@@ -1,0 +1,12 @@
+C:\Users\Washington\Documents\Visual Studio 2015\Projects\GestaoDoConhecimento.Net\GestaoDoConhecimento.Persistencia\bin\Debug\GestaoDoConhecimento.Persistencia.dll.config
+C:\Users\Washington\Documents\Visual Studio 2015\Projects\GestaoDoConhecimento.Net\GestaoDoConhecimento.Persistencia\bin\Debug\GestaoDoConhecimento.Persistencia.dll
+C:\Users\Washington\Documents\Visual Studio 2015\Projects\GestaoDoConhecimento.Net\GestaoDoConhecimento.Persistencia\bin\Debug\GestaoDoConhecimento.Persistencia.pdb
+C:\Users\Washington\Documents\Visual Studio 2015\Projects\GestaoDoConhecimento.Net\GestaoDoConhecimento.Persistencia\bin\Debug\EntityFramework.dll
+C:\Users\Washington\Documents\Visual Studio 2015\Projects\GestaoDoConhecimento.Net\GestaoDoConhecimento.Persistencia\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Washington\Documents\Visual Studio 2015\Projects\GestaoDoConhecimento.Net\GestaoDoConhecimento.Persistencia\bin\Debug\GestaoDoConecimento.Dados.dll
+C:\Users\Washington\Documents\Visual Studio 2015\Projects\GestaoDoConhecimento.Net\GestaoDoConhecimento.Persistencia\bin\Debug\GestaoDoConecimento.Dados.pdb
+C:\Users\Washington\Documents\Visual Studio 2015\Projects\GestaoDoConhecimento.Net\GestaoDoConhecimento.Persistencia\bin\Debug\EntityFramework.xml
+C:\Users\Washington\Documents\Visual Studio 2015\Projects\GestaoDoConhecimento.Net\GestaoDoConhecimento.Persistencia\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Washington\Documents\Visual Studio 2015\Projects\GestaoDoConhecimento.Net\GestaoDoConhecimento.Persistencia\obj\Debug\GestaoDoConhecimento.Persistencia.csprojResolveAssemblyReference.cache
+C:\Users\Washington\Documents\Visual Studio 2015\Projects\GestaoDoConhecimento.Net\GestaoDoConhecimento.Persistencia\obj\Debug\GestaoDoConhecimento.Persistencia.dll
+C:\Users\Washington\Documents\Visual Studio 2015\Projects\GestaoDoConhecimento.Net\GestaoDoConhecimento.Persistencia\obj\Debug\GestaoDoConhecimento.Persistencia.pdb

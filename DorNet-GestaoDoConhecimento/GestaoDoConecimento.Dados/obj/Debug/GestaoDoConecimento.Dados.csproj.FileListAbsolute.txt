@@ -1,0 +1,10 @@
+C:\Users\Washington\Documents\Visual Studio 2015\Projects\GestaoDoConhecimento.Net\GestaoDoConecimento.Dados\bin\Debug\GestaoDoConecimento.Dados.dll.config
+C:\Users\Washington\Documents\Visual Studio 2015\Projects\GestaoDoConhecimento.Net\GestaoDoConecimento.Dados\bin\Debug\GestaoDoConecimento.Dados.dll
+C:\Users\Washington\Documents\Visual Studio 2015\Projects\GestaoDoConhecimento.Net\GestaoDoConecimento.Dados\bin\Debug\GestaoDoConecimento.Dados.pdb
+C:\Users\Washington\Documents\Visual Studio 2015\Projects\GestaoDoConhecimento.Net\GestaoDoConecimento.Dados\bin\Debug\EntityFramework.dll
+C:\Users\Washington\Documents\Visual Studio 2015\Projects\GestaoDoConhecimento.Net\GestaoDoConecimento.Dados\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Washington\Documents\Visual Studio 2015\Projects\GestaoDoConhecimento.Net\GestaoDoConecimento.Dados\bin\Debug\EntityFramework.xml
+C:\Users\Washington\Documents\Visual Studio 2015\Projects\GestaoDoConhecimento.Net\GestaoDoConecimento.Dados\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Washington\Documents\Visual Studio 2015\Projects\GestaoDoConhecimento.Net\GestaoDoConecimento.Dados\obj\Debug\GestaoDoConecimento.Dados.csprojResolveAssemblyReference.cache
+C:\Users\Washington\Documents\Visual Studio 2015\Projects\GestaoDoConhecimento.Net\GestaoDoConecimento.Dados\obj\Debug\GestaoDoConecimento.Dados.dll
+C:\Users\Washington\Documents\Visual Studio 2015\Projects\GestaoDoConhecimento.Net\GestaoDoConecimento.Dados\obj\Debug\GestaoDoConecimento.Dados.pdb

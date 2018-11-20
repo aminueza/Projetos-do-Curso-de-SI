@@ -1,0 +1,32 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>@ViewBag.Title</title>
+    <link href="@Url.Content("~/Content/Site.css")" rel="stylesheet"
+          type="text/css" />
+    <script src="@Url.Content("~/Scripts/jquery-1.10.2.min.js")"
+            type="text/javascript"></script>
+</head>
+<body>
+    <div id="header">
+        <h1><a href="/">Gerenciamento do Conhecimento Empresarial</a></h1>
+        <ul id="navlist">
+            <li class="first"><a href="@Url.Content("~")" id="current">Home</a></li>
+            <li><a href="@Url.Content("~/Problema/")">Problemas</a></li>
+            <li><a href="@Url.Content("~/Solucao/")">Solucoes</a></li>
+            <li><a href="@Url.Content("~/Atividade/")">Atividades</a></li>
+            
+        </ul>
+    </div>
+
+    <div id="main">
+        @RenderBody()
+        @RenderSection("scripts", required: false)
+    </div>
+
+    <div id="footer">
+        Desenvolvido com <a href="http://asp.net/mvc">Asp.Net MVC</a>
+    </div>
+</body>
+</html>

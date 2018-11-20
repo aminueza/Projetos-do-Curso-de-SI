@@ -1,0 +1,2 @@
+/Users/AmandaSouza/Downloads/AppLoginAgenda/app/build/intermediates/classes/debug
+/Users/AmandaSouza/Downloads/AppLoginAgenda/app/build/intermediates/pre-dexed/debug/support-v4-18.0.0-2ab5d304661419ac3cc35185cd8622d88def54f0.jar
